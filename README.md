@@ -1,7 +1,5 @@
-### Hi there 👋
+Hi there, I'm Deavyansh 👋
 
-<!--
-**DeavyGaut/DeavyGaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on a research project on Hyperledger Fabric.
 - 🌱 I’m currently learning to dig deeper into the ethics of being a Software engineer.
@@ -11,7 +9,6 @@
 - 📫 How to reach me: Connect over linkedIn - https://linkedin.com/in/deavyansh
 - 🥅 2020 Goals: Better Github stats!
 - ⚡ Fun fact: I can almost have discussion on any of the topics that you are interested in. L'll inquisitive !!.  
--->
 
 
 languages and tools i like to use
